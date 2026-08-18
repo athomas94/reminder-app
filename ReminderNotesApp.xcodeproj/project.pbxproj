@@ -51,6 +51,7 @@
 
 /* Begin PBXGroup section */
 		AAAAAAAAAAAAAAAAAAAA0002 /* ReminderNotesApp */ = {
+			path = ReminderNotesApp;
 			isa = PBXGroup;
 			children = (
 				AAAAAAAAAAAAAAAAAAAA000F /* ReminderNotesAppApp.swift */,
